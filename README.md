@@ -10,7 +10,7 @@ A série temporal utilizada será datada entre os períodos **01/01/2016** e **3
 
 A seguir, um gráfico contendo a representação da série temporal:
 
-![time series](https://github.com/rubensborrasca/estacionariedade-series-temporais/graphs/time-series.png)
+![time series](https://raw.githubusercontent.com/rubensborrasca/estacionariedade-series-temporais/master/graphs/time-series.png)
 
 ## Para que estudar a estacionariedade de uma série?
 
