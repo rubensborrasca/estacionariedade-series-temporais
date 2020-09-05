@@ -18,7 +18,7 @@ Uma série temporal estacionária pode ser considerada como um processo estocás
 
 Para utilizar um método auto-regressivo de previsão _(AR)_, por exemplo, é necessário que a série em questão seja estacionária. Portanto, através do teste deste algoritmo, pode-se verificar a utilidade (ou não) de _AR_ em _forecastings_ da série temporal passada como entrada.
 
-## Uso do algorimto
+## Uso do algoritmo
 
 Para utilizar este algoritmo, primeiro inseri o _dataset_ no programa. No caso, utilizei a biblioteca _pandas_ para importar o arquivo _.csv_ e transformá-lo em um _DataFrame_ no programa.
 
