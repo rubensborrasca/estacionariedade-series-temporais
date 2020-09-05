@@ -8,7 +8,7 @@ Para o estudo, utilizei a série temporal dos valores de fechamento das ações 
 
 A série temporal utilizada será datada entre os períodos **01/01/2016** e **31/12/2016**.
 
-A seguir, um gráfico contendo a representação da série temporal:
+A seguir, um gráfico contendo a representação da série temporal, gerado através do próprio programa:
 
 ![time series](https://raw.githubusercontent.com/rubensborrasca/estacionariedade-series-temporais/master/graphs/time-series.png)
 
